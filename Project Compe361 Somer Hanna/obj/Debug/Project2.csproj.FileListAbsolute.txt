@@ -1,0 +1,15 @@
+C:\Users\somer\Documents\C#\Project2\bin\Debug\Project2.exe.config
+C:\Users\somer\Documents\C#\Project2\bin\Debug\Project2.exe
+C:\Users\somer\Documents\C#\Project2\bin\Debug\Project2.pdb
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.LoginPage.resources
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.exe
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.pdb
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.AssociatePortal.resources
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.AdminPortal.resources
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.GuestPortal.resources
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.AdminCategories.resources
+C:\Users\somer\Documents\C#\Project2\obj\Debug\Project2.AdminTeams.resources
